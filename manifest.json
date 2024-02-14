@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "NoAchievements.dll",
+  "author": "MegaPiggy",
+  "name": "No Achievements",
+  "uniqueName": "MegaPiggy.NoAchievements",
+  "version": "1.0.0",
+  "owmlVersion": "2.9.8",
+  "dependencies": [],
+  "conflicts": [ "xen.AchievementTracker" ]
+}
